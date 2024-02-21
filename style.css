@@ -34,7 +34,7 @@ body {
   text-align: center;
   width: 100%;
   position: absolute;
-  top: 15%;
+  top: 10%;
   line-height: 1.2;
   color: rgb(0, 0, 0);
   font-size: 2rem;
@@ -44,7 +44,7 @@ body {
 
 .mobile-btn-nav {
   position: absolute;
-  bottom: 5%;
+  bottom: 10%;
   left: 45%;
   transform: rotate(180deg);
   animation: scroll-down 1.1s infinite ease-in-out both;
