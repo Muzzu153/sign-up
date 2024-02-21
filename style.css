@@ -71,6 +71,7 @@ body {
   align-self: center;
   gap: 10rem;
   font-size: 1.5rem;
+  scroll-margin: 10px;
   * {
     font-family: Ubuntu;
   }
